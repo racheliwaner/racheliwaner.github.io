@@ -16,7 +16,7 @@
 .App{
   background-image: url(C:/Users/DELL/breast/src/main_pic.jpg);
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-size: cover;
   min-height: 100vh;
   display: flex;
